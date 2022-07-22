@@ -2,7 +2,7 @@
 <project version="4">
   <component name="DBNavigator.Project.DataEditorManager">
     <record-view-column-sorting-type value="BY_INDEX" />
-    <value-preview-text-wrapping value="true" />
+    <value-preview-text-wrapping value="false" />
     <value-preview-pinned value="false" />
   </component>
   <component name="DBNavigator.Project.DataExportManager">
@@ -28,7 +28,7 @@
     <loaded-nodes />
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
-    <connection id="18d0bcb7-ecd4-40f0-a819-a772007c82e1">
+    <connection id="5648f71e-1fb6-41ed-9c21-11b8df0efc7f">
       <console name="Connection" type="STANDARD" schema="mysql" session="Main" />
     </connection>
   </component>
@@ -36,10 +36,7 @@
     <open-files />
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
-    <connection id="18d0bcb7-ecd4-40f0-a819-a772007c82e1" />
-  </component>
-  <component name="DBNavigator.Project.DatasetFilterManager">
-    <filter-actions connection-id="18d0bcb7-ecd4-40f0-a819-a772007c82e1" dataset="sakila.actor" active-filter-id="" />
+    <connection id="5648f71e-1fb6-41ed-9c21-11b8df0efc7f" />
   </component>
   <component name="DBNavigator.Project.EditorStateManager">
     <last-used-providers />
@@ -70,7 +67,7 @@
   </component>
   <component name="DBNavigator.Project.Settings">
     <connections>
-      <connection id="18d0bcb7-ecd4-40f0-a819-a772007c82e1" active="true" signed="true">
+      <connection id="5648f71e-1fb6-41ed-9c21-11b8df0efc7f" active="true" signed="true">
         <database>
           <name value="Connection" />
           <description value="" />
